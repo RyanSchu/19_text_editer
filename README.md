@@ -1,1 +1,0 @@
-# 19_text_editer
